@@ -1,0 +1,40 @@
+td{
+    color: white;
+}
+td:hover{
+    scale: 1.2;
+    transition: 0.2s;
+    border-radius: 2px;
+    border: 1px solid black;
+    box-shadow: black 3px 3px;
+}
+
+.dwes {
+    background-color: #0c7fd7 !important;
+}
+
+.diw {
+    background-color: #d7b20c !important;
+}
+
+.dwec{
+    background-color: #219C90 !important;
+}
+
+.eii{
+    background-color: #245953 !important;
+}
+
+.days{
+    background-color: #5F264A !important;
+    color: white !important;
+}
+.daw{
+    background-color: #B99B6B !important;
+}
+.ing{
+    background-color: #F96666 !important;
+}
+.tut{
+    background-color: #004225 !important;
+}
